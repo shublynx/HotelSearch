@@ -1,3 +1,4 @@
 django 3.1
 cors-headers
 django-rest-framework
+pillow
